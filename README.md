@@ -1,5 +1,5 @@
 # MovieManager
-The Movie Manager is a web application built with ASP.NET Core, C#, and SQL that allows you to manage a collection of movies. You can add, edit, and delete movies, as well as view details about each movie. This README provides essential information on how to set up and use the Movie Manager.
+The Movie Manager is a web application built with ASP.NET Core, C#, and SQL that allows you to manage a collection of movies. You can add, edit, and delete movies, as well as view details about each movie.
 
 ## Features
 
