@@ -18,7 +18,7 @@ The Movie Manager is a web application built with ASP.NET Core, C#, and SQL that
 
 1. Clone the repository to your local machine.
 2. Open the project in Visual Studio.
-3. Configure the Database Connection in appsettings or user secret:
+3. Configure the Database Connection in app settings or user secret:
    - Using `DefaultConn`, update the connection string to point to your SQL Server instance.
 4. Build and run the application.
 
